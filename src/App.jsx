@@ -164,7 +164,7 @@ export default App
 // mb-Margin Bottom
 // mb-4 = phone ke neeche thoda space de diya
 // taaki next cheez chipke nahi.
-// Common bhai-bahen (family) 👨‍👩‍👧‍👦
+// Common bhai-bahen (family) 
 // Class	Meaning
 // mt-4	upar gap
 // mb-4	neeche gap
@@ -199,7 +199,7 @@ export default App
 // Ye ek React ka prop (attribute) hai jo checkbox ke liye use hota hai.
 
 
-
+//git remote add origin https://github.com/Ankit224-prog/password-generator.git 
 
 
 
